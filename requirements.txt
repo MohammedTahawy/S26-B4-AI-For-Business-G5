@@ -2,3 +2,6 @@ scikit-learn==1.6.1
 pandas==2.2.2
 joblib==1.5.3
 numpy==2.0.2
+fastapi>=0.103.0
+uvicorn>=0.23.0
+streamlit>=1.30.0
